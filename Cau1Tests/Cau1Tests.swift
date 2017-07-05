@@ -1,11 +1,3 @@
-//
-//  Cau1Tests.swift
-//  Cau1Tests
-//
-//  Created by anhtuong on 7/5/17.
-//
-//
-
 import XCTest
 @testable import Cau1
 
