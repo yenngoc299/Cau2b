@@ -1,11 +1,3 @@
-//
-//  Cau1UITests.swift
-//  Cau1UITests
-//
-//  Created by anhtuong on 7/5/17.
-//
-//
-
 import XCTest
 
 class Cau1UITests: XCTestCase {
